@@ -3,6 +3,9 @@
     "name": "노브랜드 팝콘",
     "category": "과자",
     "maker": "이마트",
+    "rate": 4.2,
+    "mallsCount": 12,
+    "reviewersCount": 4821,
     "price": {
       "min": 1180,
       "avg": 1200
@@ -54,6 +57,9 @@
     "name": "고르곤졸라 소프트콘 까망베르맛",
     "category": "과자",
     "maker": "이마트",
+    "rate": 3.8,
+    "mallsCount": 11,
+    "reviewersCount": 311,
     "price": {
       "min": 1700,
       "avg": 1980
@@ -105,6 +111,9 @@
     "name": "꼬깔콘 고소한 맛",
     "category": "스낵",
     "maker": "롯데제과",
+    "rate": 4.4,
+    "mallsCount": 23,
+    "reviewersCount": 7048,
     "price": {
       "min": 500,
       "avg": 665
@@ -152,7 +161,60 @@
       }
     ]
   },
-  "cornchip": {},
+  "cornchip": {
+    "name": "C콘칩",
+    "category": "스낵",
+    "maker": "크라운제과",
+    "price": {
+      "min": 720,
+      "avg": 792
+    },
+    "rate": 4.1,
+    "mallsCount": 32,
+    "reviewersCount": 8012,
+    "nutrition": {
+      "calorie": 448,
+      "salt": 450,
+      "carbohydrate": 54,
+      "fat": 24,
+      "cholesterol": 0,
+      "protein": 4
+    },
+    "imageUrl": "http://img.danawa.com/prod_img/500000/513/716/img/4716513_1.jpg?shrink=500:500&_v=20161201151448",
+    "danawaUrl": "http://prod.danawa.com/info/?pcode=4716513",
+    "review": [
+      {
+        "nickname": "go****",
+        "date": "2018-07-31T00:00:00Z000",
+        "star": 4,
+        "review": "배송비가 있지만 시중보다 저렴하네요! 꼬깔콘과 새우깡은 너무 짜서 구운 옥수수칩으로 구매해보았는데 기름기도 별로 없고 짜지않고 달지않으며 고소하고 맛있어요! 유통기간도 길어요! 일욜날 주문 오늘도착. 화요일."
+      },
+      {
+        "nickname": "ec****",
+        "date": "2018-05-21T00:00:00Z000",
+        "star": 5,
+        "review": "정말 최고입니다쇼핑몰 3시간 뒤져봤지만, 같은 품질에 여기보다 저렴한 곳이 없더라구요.가격대비 최고이고, 정말 강추합니다.좋은 물건 싸게 팔아주셔서 감사합니다 !"
+      },
+      {
+        "nickname": "jo****",
+        "date": "2017-12-25T00:00:00Z000",
+        "star": 4,
+        "review": "맛있게 잘먹고있네요 자주애용하고있어요"
+      },
+      {
+        "nickname": "vo****",
+        "date": "2017-10-28T00:00:00Z000",
+        "star": 4,
+        "review": "11번가에서 푸콘등 사용해서 동네 마트보다 조금 저렴하게 구입했어요 파손없이 배송 받았구 배송도 빨라서 좋아요"
+      },
+      {
+        "nickname": "pt****",
+        "date": "2017-06-07T00:00:00Z000",
+        "star": 5,
+        "review": "배송시간 지정해서 편하게 받으니 좋아요. 행사상품이나 카드할인 받으면 가격도 저렴해지고 좋네요~"
+      }
+    ]
+  },
   "hotbacon": {
     "name": "핫베이컨칩",
     "category": "과자",
@@ -161,6 +223,9 @@
       "min": 1200,
       "avg": 1650
     },
+    "rate": 4.6,
+    "mallsCount": 8,
+    "reviewersCount": 6031,
     "nutrition": {
       "calorie": 521,
       "salt": 569,
@@ -208,6 +273,9 @@
     "name": "담백한 통감자",
     "category": "과자",
     "maker": "이마트",
+    "rate": 3.7,
+    "mallsCount": 6,
+    "reviewersCount": 1319,
     "price": {
       "min": 1600,
       "avg": 1980
