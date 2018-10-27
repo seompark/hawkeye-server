@@ -1,0 +1,6 @@
+trained/*
+!trained/.gitkeep
+images/*
+!images/.gitkeep
+__pycache__/
+.idea/
