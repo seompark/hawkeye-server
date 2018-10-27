@@ -101,8 +101,158 @@
       }
     ]
   },
-  "cocooncorn": {},
+  "cocooncorn": {
+    "name": "꼬깔콘 고소한 맛",
+    "category": "스낵",
+    "maker": "롯데제과",
+    "price": {
+      "min": 500,
+      "avg": 665
+    },
+    "nutrition": {
+      "calorie": 410,
+      "salt": 350,
+      "carbohydrate": 43,
+      "fat": 25,
+      "cholesterol": 0,
+      "protein": 4
+    },
+    "imageUrl": "http://img.danawa.com/prod_img/500000/955/744/img/2744955_1.jpg?shrink=500:500&_v=20161129160122",
+    "danawaUrl": "http://prod.danawa.com/info/?pcode=2744955",
+    "review": [
+      {
+        "nickname": "df****",
+        "date": "2018-04-22T00:00:00Z000",
+        "star": 2,
+        "review": "어릴 때부터 많이 먹었는데 몇 년이 지나고 먹어도 맛있네요.."
+      },
+      {
+        "nickname": "de****",
+        "date": "2016-02-10T00:00:00Z000",
+        "star": 5,
+        "review": "고소하고 계속 먹게되는 맛이네요. 역시 믿고먹는 꼬깔콘!"
+      },
+      {
+        "nickname": "jy****",
+        "date": "2016-11-07T00:00:00Z000",
+        "star": 5,
+        "review": "아이들이 좋아해서 같이 먹으며 놀기 딱 좋네요^^ 추천합니다~"
+      },
+      {
+        "nickname": "lo****",
+        "date": "2018-05-43T00:00:00Z000",
+        "star": 4,
+        "review": "모양도 특이하고 맛도 좋아서 마트가면 언제나 찾게 되는 과자"
+      },
+      {
+        "nickname": "er****",
+        "date": "2017-09-12T00:00:00Z000",
+        "star": 4,
+        "review": "우리 아이들이 손가락에 끼우고 놀면서 잘 먹네요. 간식 준비하기 바쁠 때 딱인거 같아요"
+      }
+    ]
+  },
   "cornchip": {},
-  "hotbacon": {},
-  "tongphotato": {}
+  "hotbacon": {
+    "name": "핫베이컨칩",
+    "category": "과자",
+    "maker": "이마트",
+    "price": {
+      "min": 1200,
+      "avg": 1650
+    },
+    "nutrition": {
+      "calorie": 521,
+      "salt": 569,
+      "carbohydrate": 60,
+      "fat": 20,
+      "cholesterol": 0,
+      "protein": 5
+    },
+    "imageUrl": "http://45.32.16.245/dimithon/image/hotbacon.jpg",
+    "danawaUrl": "http://prod.danawa.com/info/?pcode=3744676&keyword=%EB%85%B8%EB%B8%8C%EB%9E%9C%EB%93%9C%20%ED%8C%9D%EC%BD%98&cate=16228134",
+    "review": [
+      {
+        "nickname": "ac****",
+        "date": "2018-10-21T00:00:00Z000",
+        "star": 2,
+        "review": "핫베이컨칩인데 조금 안맵네요. 조금 더 매우면 좋을듯"
+      },
+      {
+        "nickname": "bb****",
+        "date": "2017-05-30T00:00:00Z000",
+        "star": 5,
+        "review": "기대안하고 먹었는데 베이컨맛이 나서 놀랐네요"
+      },
+      {
+        "nickname": "vc****",
+        "date": "2016-06-28T00:00:00Z000",
+        "star": 4,
+        "review": "양이 정말 많아서 친구들과 나눠먹기도 좋네요"
+      },
+      {
+        "nickname": "xs****",
+        "date": "2016-02-22T00:00:00Z000",
+        "star": 4,
+        "review": "먹으면 먹을수록 중독되는 맛이네요. 요즘 매일 하나씩 사먹어요"
+      },
+      {
+        "nickname": "fg****",
+        "date": "2017-05-31T00:00:00Z000",
+        "star": 5,
+        "review": "학원가서 몰래 먹기 딱 좋아요. 맛도 좋네요"
+      }
+    ]
+  },
+  "tongphotato": {
+    "name": "담백한 통감자",
+    "category": "과자",
+    "maker": "이마트",
+    "price": {
+      "min": 1600,
+      "avg": 1980
+    },
+    "nutrition": {
+      "calorie": 536,
+      "salt": 703,
+      "carbohydrate": 64,
+      "fat": 30,
+      "cholesterol": 3,
+      "protein": 2
+    },
+    "imageUrl": "http://45.32.16.245/dimithon/image/potato.jpg",
+    "danawaUrl": "http://prod.danawa.com/info/?pcode=3744676&keyword=%EB%85%B8%EB%B8%8C%EB%9E%9C%EB%93%9C%20%ED%8C%9D%EC%BD%98&cate=16228134",
+    "review": [
+      {
+        "nickname": "se****",
+        "date": "2016-12-31T00:00:00Z000",
+        "star": 4,
+        "review": "감자가 바삭바삭해서 씹을 때 느낌이 좋네요"
+      },
+      {
+        "nickname": "ef****",
+        "date": "2017-10-22T00:00:00Z000",
+        "star": 5,
+        "review": "양념이 짜지 않고 적당히 묻어있어서 간단히 먹기 좋아요"
+      },
+      {
+        "nickname": "ke****",
+        "date": "2016-07-08T00:00:00Z000",
+        "star": 3,
+        "review": "질소충전이 별로 없고 양이 많아서 친구들 여럿이서 먹기 좋네요"
+      },
+      {
+        "nickname": "be****",
+        "date": "2017-02-21T00:00:00Z000",
+        "star": 5,
+        "review": "적당히 짭짤해서 맥주 안주로 먹기 딱임"
+      },
+      {
+        "nickname": "ty****",
+        "date": "2016-11-07T00:00:00Z000",
+        "star": 4,
+        "review": "아이들끼리만 집에 있을 때 이거 하나만 놓고 가도 아이들이 좋아하네요~"
+      }
+    ]
+  }
 }
